@@ -1,6 +1,6 @@
-### <h1>UntalEmi 💫</h1>
+### <h1>Emi💫</h1>
 
-- 🌱 estudiante de desarrollo web frontend y algo de backend
+🌱 estudiante de desarrollo web frontend y algo de backend
 
 💫frontend:
 html, css y javascript
